@@ -1,4 +1,4 @@
-﻿using System;
+﻿using hackerrank.challenges;
 
 namespace hackerrank
 {
@@ -6,7 +6,7 @@ namespace hackerrank
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            CountingValleys.Run();
         }
     }
 }
